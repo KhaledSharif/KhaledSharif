@@ -6,7 +6,7 @@ Currently working on various personal projects related to machine learning and r
 
 [openrag](https://github.com/KhaledSharif/openrag) makes local Retrieval Augmented Generation (RAG) easier by combining ollama + dspy + chroma
 
-[ros2-vslam](https://github.com/KhaledSharif/ros2-vslam) has quickstart python code for Visual SLAM in ROS2 using GPU acceleration and NVIDIA Isaac Sim
+[ros2-vslam](https://github.com/KhaledSharif/ros2-vslam) has quickstart python code for Visual SLAM in ROS2 with GPU acceleration and testing in simulation
 
 [nvidia-omniverse-examples](https://github.com/KhaledSharif/nvidia-omniverse-examples) has examples of how to use NVIDIA Omniverse Isaac Sim to solve robot RL tasks
 
