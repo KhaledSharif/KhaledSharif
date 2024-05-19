@@ -8,6 +8,6 @@ Currently working on various personal projects related to machine learning and r
 
 [nvidia-omniverse-examples](https://github.com/KhaledSharif/nvidia-omniverse-examples) has examples of how to use Omniverse Isaac Sim to solve robot learning tasks
 
-[hf-robot-examples](https://github.com/KhaledSharif/hf-robot-examples) has examples of how to use HuggingFace LeRobot for various robot learning tasks
+[hf-robot-examples](https://github.com/KhaledSharif/hf-robot-examples) has examples of how to use HuggingFace LeRobot to solve various robot arm manipluation tasks
 
 For more info, check out [www.kldsrf.com](https://kldsrf.com)
