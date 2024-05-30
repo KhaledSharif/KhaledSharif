@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Khaled, a robotics software engineer at NASA working on [Astrobee](https://github.com/nasa/astrobee)
+I'm Khaled, a robotics software engineer at NASA working on [Astrobee](https://github.com/nasa/astrobee) and [VIPER](https://science.nasa.gov/mission/viper)
 
 Currently working on various personal projects related to machine learning and robotics:
 
