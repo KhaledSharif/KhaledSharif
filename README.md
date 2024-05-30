@@ -4,10 +4,10 @@ I'm Khaled, a robotics software engineer at NASA working on [Astrobee](https://g
 
 Currently working on various personal projects related to machine learning and robotics:
 
-[ros-vslam](https://github.com/KhaledSharif/ros-vslam) has quickstart python code for Visual SLAM in ROS with  GPU acceleration and testing in sim
+[ros-vslam](https://github.com/KhaledSharif/ros-vslam) has code for running Visual SLAM in ROS with GPU acceleration and testing in a photo realistic simulation
 
-[omniverse-gym](https://github.com/KhaledSharif/omniverse-gym) has examples of how to use Omniverse Isaac Sim to solve robot learning tasks
+[omniverse-gym](https://github.com/KhaledSharif/omniverse-gym) shows how to use Omniverse Isaac Sim to solve robot reinforcement learning tasks using PPO
 
-[hf-robot](https://github.com/KhaledSharif/hf-robot) has examples of how to use HF Robot Library to solve various robot arm manipluation tasks
+[robot-transformers](https://github.com/KhaledSharif/robot-transformers) shows how to use Action Chunking Transformers to solve various robot arm manipluation tasks
 
 For more info, check out [www.kldsrf.com](https://kldsrf.com)
